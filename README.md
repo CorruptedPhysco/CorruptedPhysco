@@ -35,7 +35,7 @@ Currently working on small web projects and learning **Flutter** to expand my sk
 ### 🌟 Featured Projects
 | Project | Description | Repo |
 |----------|--------------|------|
-| 🚀 **Complaint Register System** | A web app for submitting and managing complaints with roles & status tracking | [View Repo](https://github.com/DeepakDev/complain-register-v1) |
+| 🚀 **Complaint Register System** | A web app for submitting and managing complaints with roles & status tracking | [View Repo](https://github.com/CorruptedPhysco/complain-register-v1) |
 | 💼 **Portfolio Website** | My personal developer portfolio showcasing projects & skills | Work in Progress |
 | **Private Projects** | They are private for a reason DUHH | Ima reveal more projects soon enough |
 ---
@@ -55,4 +55,4 @@ Currently working on small web projects and learning **Flutter** to expand my sk
 
 ---
 
-⭐️ From [Deepak Dev](https://github.com/DeepakDev)
+⭐️ From [Deepak Dev](https://github.com/CorruptedPhysco)
