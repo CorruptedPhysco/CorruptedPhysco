@@ -43,7 +43,6 @@ Currently working on small web projects and learning **Flutter** to expand my sk
 ### 🏆 GitHub Stats
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorruptedPhysco&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorruptedPhysco&layout=compact&theme=tokyonight)
 
 ---
 
