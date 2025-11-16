@@ -60,7 +60,8 @@ Git • GitHub • VS Code
 
 ## 🌐 Connect With Me
 
-**LinkedIn:** [https://linkedin.com/in/deepak-dev-7713502a7](https://linkedin.com/in/deepak-dev-7713502a7)
-**GitHub:** [https://github.com/CorruptedPhysco](https://github.com/CorruptedPhysco)
+**LinkedIn:** [Link](https://linkedin.com/in/deepak-dev-7713502a7)
+
+**GitHub:** [Link](https://github.com/CorruptedPhysco)
 
 ---
