@@ -1,57 +1,67 @@
-# 👋 Hi, I'm Deepak Dev
+---
 
-💻 **Web Developer | Flutter Learner | Aspiring Engineer**
+# 🌿 Deepak Dev
 
-I'm an enthusiastic developer who loves building clean, user-friendly web apps and exploring modern tech.  
-Currently working on small web projects and learning **Flutter** to expand my skillset.
+**Web Developer (Beginner–Intermediate) • CSE Student • Fast Learner**
+
+I’m a first-year CSE student focusing on building clean and minimal web interfaces.
+Currently improving my JavaScript and C++ skills while exploring Flutter and full-stack development.
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently pursuing my **BTech in CSE**.
-- 🌱 Learning: **Flutter** and **Full-stack Web Development**
-- 💬 Ask me about: **React, JavaScript, Python, or Frontend UI**
-- 🎯 Goal: To pursue **M.Tech in Germany** and grow as a **software engineer**
-- ⚡ Fun fact: I sing 🎤 and love mixing music & tech
+## 🌱 About Me
+
+* B.Tech CSE (1st Year)
+* Learning: JavaScript, C++
+* Comfortable with: HTML, CSS, basic JavaScript, Python, basic C++
+* Exploring: Full-stack development, Flutter
+* Strength: Fast learner
+* Hobby: Gaming
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Frontend
-`HTML` `CSS` `JavaScript` `React` `Bootstrap` `TailwindCSS`
+### Frontend
 
-#### ⚙️ Backend
-`Node.js` `Express.js` `MongoDB` `Firebase`
+HTML • CSS • JavaScript (Learning)
 
-#### 🧩 Tools & Platforms
-`Git` `GitHub` `VS Code` `Figma` `Vercel` `Postman`
+### Programming
 
-#### 📱 Mobile
-`Flutter (Noob Beginner)`
+Python • C++ (Learning)
 
----
+### Mobile
 
-### 🌟 Featured Projects
-| Project | Description | Repo |
-|----------|--------------|------|
-| 🚀 **Complaint Register System** | A web app for submitting and managing complaints with roles & status tracking | [View Repo](https://github.com/CorruptedPhysco/complain-register-v1) |
-| 💼 **Portfolio Website** | My personal developer portfolio showcasing projects & skills | Work in Progress |
-| **Private Projects** | They are private for a reason DUHH | Ima reveal more projects soon enough |
----
+Flutter (Beginner)
 
-### 🏆 GitHub Stats
+### Tools
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CorruptedPhysco&show_icons=true&theme=tokyonight)  
+Git • GitHub • VS Code
 
 ---
 
-### 🌐 Connect With Me
+## ⭐ Featured Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-dev-7713502a7)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CorruptedPhysco)
+| Project                   | Description                                            | Repo                                                                                                               |
+| ------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Complaint Register System | A simple web app for complaint submission and tracking | [https://github.com/CorruptedPhysco/complain-register-v1](https://github.com/CorruptedPhysco/complain-register-v1) |
+| Portfolio Website         | Personal developer portfolio (Work in Progress)        | WIP                                                                                                                |
+| Private Experiments       | Small experimental projects                            | —                                                                                                                  |
 
 ---
 
-⭐️ From [Deepak Dev](https://github.com/CorruptedPhysco)
+## 🎯 Goals
+
+* Learn full-stack development
+* Improve Flutter
+* Build more real-world projects
+* Become internship-ready
+
+---
+
+## 🌐 Connect With Me
+
+**LinkedIn:** [https://linkedin.com/in/deepak-dev-7713502a7](https://linkedin.com/in/deepak-dev-7713502a7)
+**GitHub:** [https://github.com/CorruptedPhysco](https://github.com/CorruptedPhysco)
+
+---
